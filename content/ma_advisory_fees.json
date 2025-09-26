@@ -1,0 +1,36 @@
+{
+  "Banner": "M&A Advisory Fees",
+  "Content": {
+    "title": "The Advantages of our M&A Services",
+    "subtitle": "Trusted Advisors for M&As Across Diverse Industries",
+    "description": "We take pride in offering a fully success-based fee structure that ensures no financial burden for transferor companies until the M&A transaction is completed. Unlike traditional models, we do not charge any upfront fees, interim payments, or monthly retainers throughout the process. This approach reflects our confidence in delivering tangible results and provides our clients with peace of mind, knowing they only pay when the deal is finalized.\nOur experienced advisors are dedicated to supporting you every step of the way, combining deep industry knowledge with a strategic, hands-on approach to deliver optimal outcomes. We are committed to working diligently and professionally to handle the complexities of your M&A process, ensuring that your goals are met efficiently and precisely—all while eliminating financial risk during the journey."
+  },
+    "Comparison table": {
+    "main_title": "How are we different from others",
+    "title": "Comparison with competitors",
+    "headers": [
+      "",
+      "FPG Berhad",
+      "Competitor A / B"
+    ],
+    "rows": [
+      {
+        "metric": "Base on calculating success fees",
+        "fpg": "Sale price",
+        "competitor": "Value transfer assets"
+      },
+      {
+        "metric": "Retainer fees",
+        "fpg": "Fees upon successful completion*",
+        "competitor": null
+      },
+      {
+        "metric": "Interim fees / Monthly fees",
+        "fpg": "Fees upon successful completion*",
+        "competitor": null
+      }
+    ],
+    "note": "*We do not impose retainer or interim fees, ensuring a cost-effective solution compared to intermediaries that often include such charges.",
+    "cta": "View all fee structure"
+  }
+}

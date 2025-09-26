@@ -1,0 +1,119 @@
+{
+  "About Us": {
+    "Who We Are": "Founded in 2004, FPG Berhad is a visionary investment holding company with a well-diversified portfolio spanning distinctive and innovative sectors. Our core focus includes financial services and institutions, digital assets, and next-generation technologies like blockchain and artificial intelligence (AI). Complementing these forward-thinking investments are ventures in property development, luxury lifestyle, and entertainment, alongside strategic interests in yachting distributorship, premium automobiles, and bespoke F&B concepts. This harmonious blend of traditional and cutting-edge industries positions FPG Berhad as a leader in driving innovation and value across diverse sectors.\nWith a workforce of over 200 personnel operating across offices in Singapore, Malaysia, Indonesia, Thailand and Cambodia with presence largely in Asia Pacific, we pride ourselves on establishing a robust global presence. This reach is further amplified by our strategic partnerships in Europe, the United Kingdom, United States, China, Hong Kong, and Australia, enabling FPG Berhad to adapt to market dynamics and seize opportunities across continents. Our portfolio reflects a commitment to excellence, offering world-class solutions and experiences tailored to our global audience.\nFPG Berhad also specializes in mergers and acquisitions, strategically targeting high-growth areas such as financial institutions, luxury lifestyle ventures, and blockchain-driven fintech and AI solutions. By uniting diverse expertise with a forward-looking vision, we bridge tradition with innovation, transforming industries and driving sustainable growth. Guided by our entrepreneurial spirit and unwavering commitment to success, FPG Berhad is redefining the boundaries of what’s possible across our investment ecosystem."
+  },
+  "Vision & Mission": {
+    "Vision Statement": "To be the leading catalyst for investment innovation and mergers and acquisitions in Southeast Asia, recognized for our unparalleled commitment to driving sustainable growth, enhancing economic prosperity, and empowering businesses and communities.",
+    "Mission Statement": "Our mission at FPG Berhad is to strategically invest in high-potential sectors and provide exceptional M&A advisory services that foster innovation and create value. We strive to deliver outstanding returns for our stakeholders through responsible investment practices, operational excellence, and a strong focus on building lasting relationships within the communities we serve."
+  },
+  "Global Presence": {
+    "description": "With a strong presence across Asia-Pacific, FPG Berhad is strategically positioned to respond swiftly to emerging opportunities while facilitating effective market penetration across the region.",
+    "key financial jurisdictions": "Malaysia, Hong Kong, Singapore, Indonesia, Thailand, Cambodia, Europe, North America"
+  },
+  "What We Do": {
+    "M&A Advisory for Fintech & Regulated Financial Institutions": "We deliver high-trust, end-to-end advisory solutions across the financial innovation spectrum: Investment platforms & Digital Banking platforms, Financial Institutions Licensing & Expansion, Payment Platform & Embedded Finance, Strategic Exits for Regulated Businesses",
+    "Cross-Border M&A Structuring": "We are recognized for our trusted cross-border deal structuring, with a focus on: Legal, Tax, and Operational Integration, Multi-Jurisdictional Regulatory Bridges, Offshore/Onshore SPV Setup, Capital Market Approvals. Whether connecting Global capital with Asian fintechs or enabling asia funds to access global markets, we ensure seamless, compliant, and visionary execution."
+  },
+  "The Pavilion Promise": {
+    "description": "We don’t just structure deals — we build trusted bridges:",
+    "points": [
+      "Between capital and innovation",
+      "Between visionary leadership and real-world results",
+      "Between regulation and ambition"
+    ]
+  },
+  "Our CSR Impact": {
+    "Digital Billboards for Education": "At FPGB, we believe trust must extend beyond business. Through our Digital Billboard CSR Program, advertising revenues are reinvested into certified blockchain and tech education for underserved communities."
+  },
+  "Milestones": [
+    {
+      "year": "2008",
+      "event": "First Pavilion Trading (FPG) was established by our founder"
+    },
+    {
+      "year": "2017",
+      "event": "FPG provided corporate, licensing and tech solutions in the establishment of a fully regulated futures exchange in Indonesia"
+    },
+    {
+      "year": "2019",
+      "event": "First Pavilion Technology (FPG) was established."
+    },
+    {
+      "year": "2019",
+      "event": "FPG Solution and Consultancy was established."
+    },
+    {
+      "year": "2019",
+      "event": "Our related entity, FPG Capital (Thailand) Co., LTD was established."
+    },
+    {
+      "year": "2019",
+      "event": "FPG was awarded the International Prestige Brand"
+    },
+    {
+      "year": "2019",
+      "event": "FPG's related entity acquired a fully regulated digital asset exchange in Thailand"
+    },
+    {
+      "year": "2021",
+      "event": "FPG was awarded the MyMalaysia Award"
+    },
+    {
+      "year": "2022",
+      "event": "FPG, as a distinguished Berhad entity, upholds the highest standards of governance, transparency, and innovation, solidifying its position as an industry leader."
+    },
+    {
+      "year": "2023",
+      "event": "Our investment portfolio achieved a USD250m valuation"
+    },
+    {
+      "year": "2024",
+      "event": "Completed M&A activities hits USD1b"
+    }
+  ],
+  "Who We Work With": {
+    "Affiliated Partners": [
+      "Legal Bison",
+      "BitGo",
+      "OneApex Capital",
+      "UOB Kay Hian",
+      "UOB",
+      "Genesis Block",
+      "DBS",
+      "Binance",
+      "Bank of Singapore",
+      "Coindirect",
+      "MetaQuotes",
+      "Fireblocks",
+      "Kasikornthai",
+      "PDC Exchange",
+      "PTMO",
+      "Avatar Capital",
+      "Maybank"
+    ],
+    "Strategic Partners": [
+      "MergersCorp",
+      "Bina Harta Group",
+      "Valbury (PT. Valbury Asia Futures)",
+      "Universiti Kuala Lumpur (UniKL)",
+      "Absolute",
+      "Otso",
+      "Plaza Sungei Wang",
+      "Moving Walls",
+      "Majoris",
+      "Amber Lounge",
+      "CFD Capital",
+      "Indosukses Futures"
+    ],
+    "Our Consultants": [
+      "BDO",
+      "Tilleke & Gibbins",
+      "Deacons",
+      "Carey Olsen",
+      "Allsports",
+      "Zaim & Co.",
+      "Kevin Kiran Ng & Associates",
+      "InTime"
+    ]
+  }
+}

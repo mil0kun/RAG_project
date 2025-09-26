@@ -1,0 +1,29 @@
+{
+  "Terms and Conditions": {
+    "title": "Terms and Conditions",
+    "last_updated": "May 29, 2023",
+    "description": "This website, including any sub-site accessible through the homepage, (collectively, the “Site”) is published and maintained by First Pavilion Global Berhad (“FPG”) and its subsidiaries, affiliates, and/or related entities (“FPG”). By and upon accessing and using this Site, you agree to accept the following terms and conditions (“Terms and Conditions”) without limitation or qualification.\nPlease note that FPG reserves the right to modify, change, alter, or otherwise edit these Terms and Conditions at any time by updating this posting and such changes will become immediately effective upon such posting.\nIf you do not agree to these Terms and Conditions, please do not use the Site. This page was last updated on May 29, 2023.\nYour access to and use of this Site is subject to all applicable laws and the use of this Site shall be undertaken at your own responsibility.",
+    "sections": [
+      {
+        "heading": "Accuracy of Information",
+        "content": "FPG shall not guarantee and has no responsibility for the accuracy and completeness of the contents of this Site (collectively, the “Information”), even if all the Information is carefully and managed by FPG.\nFPG makes no warranty for providing access and use of any Information to you. FPG has the right to change all or some parts of this Site’s Information and suspend or close this Site without any notice to you."
+      },
+      {
+        "heading": "Intellectual Property Rights",
+        "content": "The information on this Site is the property of FPG and other third parties which is protected by copyrights, patent rights, trademark rights, and other rights (collectively, the “Rights”). Any duplication or usage of the Information without permission of the owner of such Information shall not be permitted under relevant laws and regulations. FPG grants no rights to any third party to you. You are prohibited from copying, publishing, selling, distributing, or modifying all the materials on this Site."
+      },
+      {
+        "heading": "Limitation of Liability",
+        "content": "FPG shall not be liable for any damage or loss of any kind, however caused as a result (indirect or direct) of the use of this Site, including but not limited to any damage or loss suffered as a result of reliance on the information contained or available from this Site.\nMoreover, FPG shall not be liable for any damage or loss of any kind, however caused as a result of the use of the Information acquired from other sites linked to this Site."
+      },
+      {
+        "heading": "Disclaimer of Professional Advice",
+        "content": "The contents of this Site do not constitute financial, legal, or other professional advice. If financial, legal, or other professional advice is required, the services of a competent professional should be sought."
+      },
+      {
+        "heading": "Governing Law and Jurisdiction",
+        "content": "FPG and any person who has access to this Site from anywhere in the world shall agree that the laws of Malaysia shall govern any legal action or proceeding relating to this Site. You must acknowledge that FPG can choose any jurisdiction at FPG’s discretion."
+      }
+    ]
+  }
+}

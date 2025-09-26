@@ -1,0 +1,82 @@
+[
+  {
+    "category": "Home",
+    "url": "https://fpgberhad.com/",
+    "content_ref": "home"
+  },
+  {
+    "category": "About Us",
+    "sub_categories": [
+      {
+        "name": "Who We Are",
+        "url": "https://fpgberhad.com/who-we-are/",
+        "content_ref": "who_we_are"
+      },
+      {
+        "name": "Our Team",
+        "url": "https://fpgberhad.com/our-team/",
+        "content_ref": "our_team"
+      }
+    ]
+  },
+  {
+    "category": "Our Organization",
+    "url": "https://fpgberhad.com/our-organization/",
+    "content_ref": "our_organization"
+  },
+  {
+    "category": "Our Companies",
+    "url": "https://fpgberhad.com/our-companies/",
+    "content_ref": "our_companies"
+  },
+  {
+    "category": "Investment Portfolio",
+    "url": "https://fpgberhad.com/investment-portfolio/",
+    "content_ref": "investment_portfolio"
+  },
+  {
+    "category": "M&A Advisory",
+    "sub_categories": [
+      {
+        "name": "M&A Services",
+        "url": "https://fpgberhad.com/ma-services/",
+        "content_ref": "ma_services"
+      },
+      {
+        "name": "Sell Side Listings",
+        "url": "https://fpgberhad.com/ma-sell-side-listings/",
+        "content_ref": "sell_side_listings"
+      },
+      {
+        "name": "Successful M&As",
+        "url": "https://fpgberhad.com/successful-ma/",
+        "content_ref": "successful_ma"
+      },
+      {
+        "name": "M&A Advisory Fees",
+        "url": "https://fpgberhad.com/ma-advisory-fees/",
+        "content_ref": "ma_advisory_fees"
+      },
+      {
+        "name": "Buy & Sell Side M&A Advisory",
+        "url": "https://fpgberhad.com/buy-sell-side-ma-advisory/",
+        "content_ref": "buy_sell_side"
+      }
+    ]
+  },
+  {
+    "category": "News & Events",
+    "url": "https://fpgberhad.com/news-events/",
+    "content_ref": "news_events"
+  },
+  {
+    "category": "Career",
+    "url": "https://fpgberhad.com/careers/",
+    "content_ref": "careers"
+  },
+  {
+    "category": "Get In Touch",
+    "url": "https://fpgberhad.com/get-in-touch/",
+    "content_ref": "get_in_touch"
+  }
+]

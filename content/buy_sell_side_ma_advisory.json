@@ -1,0 +1,69 @@
+{
+  "Banner": "Buy & Sell Side M&A Advisory",
+  "Buy side content": [
+    {
+      "title": "Expert Buy-Side M&A Solutions",
+      "subtitle": "Guiding You to the Right Deals with Confidence",
+      "description": "At FPG Berhad, our Buy-Side M&A Advisory services are designed to help corporations and private equity firms make strategic acquisitions that align with their growth ambitions. Our focus is to provide expert guidance and strategic advice throughout the entire acquisition journey, ensuring our clients achieve their objectives while maximizing value."
+    },
+    {
+      "title": "Buy-Side M&A Solutions",
+      "subtitle": "Why Choose Us",
+      "description": "Our Buy-Side M&A Advisory services are tailored to support corporations and private equity firms in executing strategic acquisitions that align with their long-term growth goals. We are committed to delivering expert guidance and strategic insights at every stage of the acquisition process, enabling our clients to make informed decisions, achieve their objectives, and unlock maximum value from each opportunity.",
+      "points": [
+        {
+          "title": "Strategic Target Identification and Evaluation",
+          "details": "We start by assessing the client’s goals, conducting detailed research to identify suitable acquisition targets. Our analysis covers financial performance, market position, and potential synergies, offering a complete view of opportunities and risks."
+        },
+        {
+          "title": "Expert Transaction Financing",
+          "details": "We assist clients in finding the best financing solutions, whether through debt, equity, or a combination. Our strong connections with lenders ensure access to optimal funding options."
+        },
+        {
+          "title": "Cross-Border and Cultural Expertise",
+          "details": "Our global network and local knowledge allow us to manage complex international deals with cultural sensitivity, guiding clients through negotiations seamlessly."
+        },
+        {
+          "title": "Negotiation and Deal Structuring",
+          "details": "We lead negotiations, managing everything from purchase price to deal terms. Our goal is to secure the best outcomes by leveraging our expertise and network for favorable conditions."
+        },
+        "Comprehensive Deal Management",
+        "We oversee the entire acquisition process, from document preparation to regulatory compliance, ensuring a smooth and successful transaction.",
+        {
+          "title": "Managing Valuation Challenges",
+          "details": "Our specialists handle differing valuation perspectives and due diligence transparency, offering expert guidance to ensure clarity and alignment throughout the acquisition."
+        }
+      ]
+    }
+  ],
+  "Sell side content": [
+    {
+      "title": "Strategic Sell-Side M&A Advisory",
+      "subtitle": "Empowering Your Business Sale with Insight and Precision",
+      "description": "At FPG Berhad, our Sell-Side M&A Advisory services are a cornerstone of the investment banking industry, designed to assist companies in achieving successful transactions when they decide to sell their businesses. We offer the expertise and guidance necessary to navigate the complexities of mergers and acquisitions, ensuring that each transaction is executed with precision and efficiency.\nWhen a company chooses to engage in a sale, it often requires professional advisory support to manage the nuanced landscape of M&A transactions. At FPG Berhad, we provide a comprehensive range of sell-side M&A services that are customized to meet the unique needs of each client, delivering personalized advice at every phase of the process."
+    },
+    {
+      "title": "Sell-Side M&A Solutions",
+      "subtitle": "Why Choose Us",
+      "description": "At FPG Berhad, we combine deep industry expertise with a personalized approach to help clients achieve the best possible outcomes. Our global network, strategic insights, and hands-on guidance throughout the entire sale process ensure a seamless and successful transaction. We are committed to maximizing value, identifying the right buyers, and navigating complex negotiations with precision and professionalism.",
+      "points": [
+        {
+          "title": "Thorough Business Evaluation",
+          "details": "Our Sell-Side M&A services start with a detailed analysis of the client's business. We review financial records, conduct market research, and assess the competitive landscape to identify key strengths and growth opportunities. This helps establish a strong valuation and sets the stage for a successful sale."
+        },
+        {
+          "title": "Strategic Marketing to Buyers",
+          "details": "Once a valuation is set, we market the company to qualified buyers, creating a comprehensive Information Memorandum (IM) that highlights the business's strengths. Using our network of strategic and financial buyers, we target prospects aligned with the client’s goals to maximize transaction value."
+        },
+        {
+          "title": "Facilitating Negotiations and Deal Structuring",
+          "details": "We act as intermediaries during negotiations, managing communication and validating financial data. Our team assists in deal structuring and term negotiations, aiming to secure the best possible outcome for our clients."
+        },
+        {
+          "title": "Maximizing Transaction Success",
+          "details": "From initial evaluation to deal closure, our Sell-Side M&A services leverage industry knowledge and a broad buyer network to secure optimal outcomes, helping clients achieve full business value."
+        }
+      ]
+    }
+  ]
+}

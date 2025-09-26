@@ -1,0 +1,49 @@
+{
+  "Banner": "Careers",
+  "About Us": {
+    "title": "Together We Achieve More",
+    "description": "We are expanding and are seeking dynamic, talented individuals to join our ranks. Do you have what it takes to become a part of our family? If you are, keep reading to discover if we are the ideal organization for you."
+  },
+  "Workplace Culture": {
+    "description": "In our collaborative workplace culture, teamwork is key. We believe in the power of collaboration and synergy, as we bring together talented individuals with different skill sets and backgrounds to tackle challenges and achieve shared goals. Join us in our mission to make work-life balance more pleasant and productive.",
+    "points": [
+      {
+        "title": "A Fun Environment",
+        "details": "We prioritize a positive and fun work environment through after-hours sports events, fostering teamwork, camaraderie, and a strong sense of unity."
+      },
+      {
+        "title": "People",
+        "details": "Our company values results and professionalism, respecting employees' personal lives while keeping drama out of the workplace."
+      },
+      {
+        "title": "Growth",
+        "details": "We provide excellent mentorship and resources, guiding employees through their personal development growth journey, and fostering a culture of continuous learning and professional improvement."
+      },
+      {
+        "title": "Teamwork",
+        "details": "Our teamwork approach encourages collaboration, adaptability, and collective accountability, fostering a collaborative environment where employees learn and grow together, driven by a shared commitment to the team's success."
+      }
+    ]
+  },
+  "Competitive Edge": {
+    "title": "Elevating Excellence",
+    "subtitle": "Our Competitive Edge",
+    "description": "At First Pavilion Global Berhad, we recognize that our employees are our greatest asset and the key to our competitive edge. We foster a culture of continuous growth and development, providing our team with ample opportunities for career advancement and skill enhancement. With a supportive work environment, a focus on work-life balance, and a commitment to diversity and inclusion, we attract and retain top talent, ensuring that our company remains at the forefront of innovation and success. Join our team and unlock your full potential in a fulfilling and rewarding career."
+  },
+  "Benefits": {
+    "title": "Benefits",
+    "description": "In addition to a high starting salary, we offer unique benefits like professional upskilling opportunities paid on top of standard benefits."
+  },
+  "Advancement": {
+    "title": "Advancement",
+    "description": "Our company values results and professionalism, respecting employees' personal lives while keeping drama out of the workplace."
+  },
+  "Salary": {
+    "title": "Great Salary",
+    "description": "We offer competitive salaries based on employees' skills, experience, and contributions to our organization."
+  },
+  "Job Opportunities": {
+    "title": "Job Opportunities",
+    "subtitle": "Where Opportunities Meet Ambitions"
+  }
+}

@@ -1,0 +1,181 @@
+{
+  "banners": [
+    {
+      "title": "Strategic Growth through Mergers & Acquisitions",
+      "subtitle": "Empowering your business to achieve its full potential through strategic M&A moves that align with your goals."
+    },
+    {
+      "title": "Tailored M&A Advisory for Lasting Impact",
+      "subtitle": "Our bespoke M&A advisory services are designed to deliver long-term value, customized to your unique objectives."
+    }
+  ],
+  "statistics": [
+    "10 Years Experience",
+    "100% M&A Success Rate",
+    "30+ Annual M&A Cases"
+  ],
+  "content": {
+    "main_title": "M&A Advisory",
+    "title": "Transforming Businesses Through Strategic M&A Expertise",
+    "paragraphs": [
+      "First Pavillion Global Berhad (FPG) guide organizations through the complexities of mergers and acquisitions. Our tailored advisory services focus on helping clients meet strategic goals by providing data-driven insights and market expertise. We assist businesses in identifying opportunities, managing risks, and maximizing value during the M&A process. Our experienced team delivers solutions that foster growth and ensure long-term success in a dynamic market.",
+      "AI-driven tools enable a more comprehensive risk assessment by analyzing historical data, financial performance, market sentiment, and operational risks. Machine learning models can highlight potential red flags, predict future risk scenarios, and provide a clearer picture of a target’s stability. This advanced analysis helps FPG’s clients make decisions with a full understanding of potential pitfalls.",
+      "One of the core strengths of AI in M&A is its ability to process and analyze vast amounts of data quickly.",
+      "This accelerates decision-making by delivering actionable insights and reducing the reliance on intuition or manual analysis.",
+      "FPG uses these AI-generated insights to provide clear and data-backed recommendations, ensuring that clients can move decisively."
+    ]
+  },
+  "industries": {
+    "main_title": "Explore Our Journey",
+    "title": "Key Industries for M&A Transactions",
+    "focus": {
+      "title": "Why We Focus on These Industries",
+      "paragraphs": [
+        "We specialize in technology, financial services, and consumer products because these sectors lead in innovation and growth.",
+        "By focusing on these areas, we can anticipate market trends, identify strategic opportunities, and offer tailored M&A solutions.",
+        "Our deep industry knowledge and strong network help us guide companies through complex transactions to achieve their goals."
+      ]
+    },
+    "list": [
+      {
+        "name": "Luxury Lifestyle",
+        "description": "We have extensive experience in the consumer products and retail sectors, helping clients adapt to changing consumer preferences, omnichannel distribution, and competition. Our M&A services focus on acquiring innovative brands, expanding into new markets, and streamlining operations through strategic divestitures."
+      },
+      {
+        "name": "Technology & Software Development",
+        "description": "We specialize in M&A transactions in the technology and software sectors, leveraging our deep expertise and network to guide clients through mergers, acquisitions, and divestitures. Our team helps companies capitalize on emerging trends and maintain a competitive edge in these fast-paced industries."
+      },
+      {
+        "name": "Finance Technology",
+        "description": "Our fintech M&A services offer specialized insights to help companies and investors seize growth opportunities and manage risks. We craft tailored strategies for digital finance, payments, and innovative platforms, ensuring transactions align with strategic goals and drive sustainable growth."
+      },
+      {
+        "name": "Financial Services",
+        "description": "Our M&A advisory services are tailored to the financial services sector, including banking, insurance, wealth management, and fintech. We prioritize regulatory compliance, data security, and customer trust, working with clients to identify growth opportunities, optimize portfolios, and execute value-creating transactions."
+      }
+    ]
+  },
+  "why_choose_us": {
+    "main_title": "Experience a Difference with Us",
+    "title": "Why Choose Us",
+    "intro": "We are committed to delivering exceptional M&A advisory services that drive business growth and create lasting value for our clients. Here are the key reasons why companies choose us as their trusted partner:",
+    "points": [
+      {
+        "title": "Data-Driven Decisions",
+        "description": "We leverage AI-driven data to analyze market trends and assess investments in real-time, ensuring informed, strategic decisions."
+      },
+      {
+        "title": "Efficient Process Optimization",
+        "description": "AI automates tasks, speeding workflows from research to integration for faster, seamless transitions, enabling clients to focus on growth."
+      },
+      {
+        "title": "Enhanced Predictive Modeling",
+        "description": "Predictive AI helps us assess future scenarios, guiding clients to make strategic, value-driven decisions."
+      },
+      {
+        "title": "Efficient Transactions",
+        "description": "Using tech-driven efficiency, we automate due diligence, deliver real-time market analysis, and provide AI-based risk assessment for seamless M&A and sustained growth."
+      }
+    ]
+  },
+  "process": {
+    "main_title": "A Step-by-Step Guide to Your M&A Journey with FPG",
+    "title": "Process Overview",
+    "intro": "At First Pavillion Global Berhad (FPG), we follow a structured and professional approach to ensure a smooth and successful M&A process. Here’s a step-by-step overview of how we handle each phase:",
+    "steps": [
+      {
+        "title": "Initial Consultation & Strategy Development",
+        "description": "We start with an initial consultation to understand your business goals and vision for the merger or acquisition. This meeting helps us identify opportunities and develop a tailored M&A strategy that aligns with your specific needs."
+      },
+      {
+        "title": "Valuation & Due Diligence",
+        "description": "We conduct a thorough valuation of the target company to assess its fair market value. Our team performs due diligence by analyzing financial statements, operations, and market conditions to identify risks and opportunities, ensuring you have the information needed for informed decision-making."
+      },
+      {
+        "title": "Deal Structuring & Negotiation",
+        "description": "Once we understand the valuation and due diligence findings, we proceed to structure the deal. Our experts create a transaction structure that aligns with your financial, legal, and strategic goals. We also assist in negotiating terms to ensure your interests are well represented throughout the process."
+      },
+      {
+        "title": "Closing the Transaction",
+        "description": "After reaching an agreement, we facilitate the transaction's closing by finalizing legal documents and obtaining necessary approvals. Our team ensures a seamless transition, allowing you to focus on your core business activities."
+      },
+      {
+        "title": "Post-Merger Integration",
+        "description": "The final step is post-merger integration, where we assist in merging operations, cultures, and systems from both companies. Our goal is to ensure a smooth transition that maximizes synergies and minimizes disruption, providing ongoing support to help you achieve your strategic objectives."
+      }
+    ]
+  },
+  "comparison_table": {
+    "main_title": "How are we different from others",
+    "title": "Comparison with competitors",
+    "headers": [
+      "",
+      "FPG Berhad",
+      "Competitor A / B"
+    ],
+    "rows": [
+      {
+        "metric": "Base on calculating success fees",
+        "fpg": "Sale price",
+        "competitor": "Value transfer assets"
+      },
+      {
+        "metric": "Retainer fees",
+        "fpg": "Fees upon successful completion*",
+        "competitor": null
+      },
+      {
+        "metric": "Interim fees / Monthly fees",
+        "fpg": "Fees upon successful completion*",
+        "competitor": null
+      }
+    ],
+    "note": "*We do not impose retainer or interim fees, ensuring a cost-effective solution compared to intermediaries that often include such charges.",
+    "cta": "View all fee structure"
+  },
+  "faqs": {
+    "main_title": "FAQs",
+    "title": "Find Clarity with Our M&A FAQs",
+    "items": [
+      {
+        "question": "How does AI improve the M&A process?",
+        "answer": "AI enhances the M&A process by automating data analysis, improving the accuracy of valuations, and identifying market trends. This allows for faster decision-making and provides predictive insights that help clients gain a competitive edge."
+      },
+      {
+        "question": "What is the timeline for a typical M&A transaction?",
+        "answer": "The timeline for an M&A transaction can vary widely, but it generally takes anywhere from three to six months from initial discussions to closing. Factors such as the complexity of the deal and regulatory requirements can influence this timeframe."
+      },
+      {
+        "question": "How does your company handle cross-border deals?",
+        "answer": "We specialize in cross-border transactions by providing expertise in navigating regulatory requirements, cultural differences, and market dynamics specific to each country involved. Our team ensures compliance and smooth communication throughout the process."
+      },
+      {
+        "question": "What are the key steps in the M&A process?",
+        "answer": "The key steps in the M&A process include initial consultation and strategy development, valuation and due diligence, deal structuring and negotiation, closing the transaction, and post-merger integration."
+      },
+      {
+        "question": "How do you determine the value of a target company?",
+        "answer": "We determine the value of a target company through comprehensive valuation methods, including discounted cash flow analysis, comparable company analysis, and precedent transactions. This multi-faceted approach ensures an accurate assessment of worth."
+      },
+      {
+        "question": "What role does due diligence play in an M&A transaction?",
+        "answer": "Due diligence is critical in uncovering potential risks and opportunities associated with a target company. It involves a thorough examination of financials, operations, legal matters, and market conditions to inform decision-making and negotiation strategies."
+      },
+      {
+        "question": "How do you ensure a successful post-merger integration?",
+        "answer": "We ensure successful post-merger integration by developing a detailed integration plan that addresses cultural alignment, operational efficiencies, and systems integration. Our team provides ongoing support to facilitate a smooth transition."
+      },
+      {
+        "question": "What are common challenges faced during an M&A transaction?",
+        "answer": "Common challenges include cultural integration issues, regulatory compliance hurdles, misalignment of strategic goals, and unexpected financial liabilities. Our experienced team proactively addresses these challenges to mitigate risks throughout the process."
+      }
+    ]
+  },
+  "summary": {
+    "title": "Get a Valuation of Your Business",
+    "subtitle": "Get in Touch with Us Today",
+    "catch_phrase": "Seeking to accelerate growth through strategic M&A?",
+    "description": "Our seasoned experts provide personalized guidance at every stage, crafting tailored solutions for mergers, acquisitions, or restructuring. Connect with us today to discover how we can help you reach your objectives.",
+    "cta": "Get In Touch"
+  }
+}

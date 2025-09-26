@@ -1,0 +1,40 @@
+{
+  "Privacy Policy": {
+    "title": "Privacy Policy",
+    "description": "First Pavilion Global Berhad (“FPG”) respects and protects the privacy of all users of our website. This privacy policy explains how we collect, use, disclose or otherwise process the data to which we have or are likely to have access, including your personal information, in accordance with the Personal Data Protection Act of Malaysia, when you use our website.",
+    "sections": [
+      {
+        "heading": "Information FPG Collects",
+        "content": "FPG collects personal information from you and provides it when you interact with our website. For example, when you fill out a form or sign up for our newsletter. FPG may collect your name, email address, phone number, and any other information you provide.\nFPG also automatically collects non-personal information when you visit our website, such as your IP address, browser type, and operating system. This information helps us improve our website and provide a better user experience."
+      },
+      {
+        "heading": "How FPG Uses Your Information",
+        "content": "FPG uses your personal information to communicate with you and provide solutions. For example, if you sign up for our newsletter, FPG will use your email address to send you the newsletter.\nIf you no longer wish to receive our newsletter, you may withdraw your consent by contacting us at 03-4816 6106 or emailing us at info@fpgberhad.com.\nFPG may also use your personal information to improve our website and solutions, as well as research and analysis to better understand our users.\nFPG will only process your personal information for the purposes for which we collected it unless we reasonably consider that we need to use it for another reason and that reason is compatible with the original purpose.\nFPG uses cookies to provide users with a personalised experience on our website. We use cookies to improve and better tailor our website to our users’ needs. We also use this information to verify that users meet the criteria required to process their requests."
+      },
+      {
+        "heading": "How Does FPG Disclose Your Information",
+        "content": "FPG does not sell or rent your personal information to third parties. However, FPG may disclose your personal information with third-party service providers who help us operate our website or provide solutions for you. For example, FPG may use a third-party email marketing service to send our newsletter.\nFPG does not disclose your personal information to unaffiliated third parties for their independent use unless we have obtained your express consent to do so and pursuant to executing confidentiality agreements with such unaffiliated third parties. FPG also requires all third parties to respect the security of your personal information and treat it according to the law.\nFPG may however disclose your personal information if required by law or in response to a court order, subpoena, or other legal process."
+      },
+      {
+        "heading": "How FPG Protects Your Information",
+        "content": "FPG takes appropriate measures to protect your personal information from unauthorized access, disclosure, or misuse. However, no data transmission over the Internet is secure, FPG cannot guarantee your personal information’s security. We are however committed to employing reasonable security measures and regularly reviewing our security practices (security risk assessments or audits)."
+      },
+      {
+        "heading": "Links to Other Sites",
+        "content": "FPG’s website may contain links to other sites. These sites are not covered by this Privacy Policy, and we are not responsible for the privacy practices or the content of these sites."
+      },
+      {
+        "heading": "Changes to the Privacy Policy",
+        "content": "FPG reserves the right to modify this Privacy Policy and related business practices at any time by posting updated text on this page. Please check this page periodically for updates. Your continued use of our website constitutes your acknowledgment and acceptance of such changes."
+      },
+      {
+        "heading": "Your Choices",
+        "content": "You may opt out of receiving our newsletter or other marketing communications from us by following the unsubscribe instructions included in these communications.\nYou may also request access to, correction of, or deletion of your personal information by contacting us using the information provided below"
+      },
+      {
+        "heading": "Contact Us",
+        "content": "If you have questions or concerns about our Privacy Policy, contact us at 03-4816 6106 or email us at info@fpgberhad.com. We will do our best to respond to your inquiry as soon as possible. Your feedback is important to us and we value your opinion. Thank you for taking the time to reach out to us."
+      }
+    ]
+  }
+}
