@@ -52,7 +52,7 @@ def main():
     # Configuration
     CHROMA_STORE_DIR = "./chroma_store"
     COLLECTION_NAME = "company_docs"
-    MODEL_NAME = "all-MiniLM-L6-v2"
+    MODEL_NAME = "all-mpnet-base-v2"  # Upgraded from all-MiniLM-L6-v2 for better quality
     TOP_K_RESULTS = 3
     
     print("=== RAG Query Interface ===")

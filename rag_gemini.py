@@ -17,7 +17,7 @@ class RAGWithGemini:
     
     def __init__(self, chroma_store_dir: str = "./chroma_store", 
                  collection_name: str = "company_docs",
-                 model_name: str = "all-MiniLM-L6-v2"):
+                 model_name: str = "all-mpnet-base-v2"):  # Upgraded for better quality
         """Initialize the RAG system"""
         
         # Load environment variables

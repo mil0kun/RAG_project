@@ -99,7 +99,7 @@ def main():
     DATA_DIR = "./content"
     CHROMA_STORE_DIR = "./chroma_store"
     COLLECTION_NAME = "company_docs"
-    MODEL_NAME = "all-MiniLM-L6-v2"
+    MODEL_NAME = "all-mpnet-base-v2"  # Upgraded from all-MiniLM-L6-v2 for better quality
     
     print("=== RAG Indexing Pipeline ===")
     print(f"Data directory: {DATA_DIR}")
