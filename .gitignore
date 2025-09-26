@@ -1,0 +1,89 @@
+# Environment variables and secrets
+.env
+.env.local
+.env.production
+.env.staging
+*.key
+
+# Python cache and compiled files
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
+.eggs/
+
+# Virtual environments
+venv/
+env/
+ENV/
+.venv/
+.ENV/
+
+# IDE and editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+Thumbs.db
+
+# ChromaDB storage (optional - remove this line if you want to commit the database)
+chroma_store/
+
+# Hugging Face cache (sentence-transformers models)
+.cache/
+~/.cache/huggingface/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# PyTorch cache
+.torch/
+
+# Logs
+*.log
+logs/
+
+# Temporary files
+*.tmp
+*.temp
+temp/
+tmp/
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Windows specific
+$RECYCLE.BIN/
+Desktop.ini
+
+# Python testing
+.pytest_cache/
+.coverage
+htmlcov/
+.tox/
+.nox/
+
+# Data files (uncomment if you don't want to commit your data)
+# data/
+# content/
+
+# Model files (if you download large models locally)
+*.bin
+*.safetensors
+models/
+
+# Backup files
+*.bak
+*.backup
